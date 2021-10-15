@@ -1,0 +1,16 @@
+D:\MCC\C#Apps\BasicPrograming\bin\Debug\net5.0\BasicPrograming.exe
+D:\MCC\C#Apps\BasicPrograming\bin\Debug\net5.0\BasicPrograming.deps.json
+D:\MCC\C#Apps\BasicPrograming\bin\Debug\net5.0\BasicPrograming.runtimeconfig.json
+D:\MCC\C#Apps\BasicPrograming\bin\Debug\net5.0\BasicPrograming.runtimeconfig.dev.json
+D:\MCC\C#Apps\BasicPrograming\bin\Debug\net5.0\BasicPrograming.dll
+D:\MCC\C#Apps\BasicPrograming\bin\Debug\net5.0\ref\BasicPrograming.dll
+D:\MCC\C#Apps\BasicPrograming\bin\Debug\net5.0\BasicPrograming.pdb
+D:\MCC\C#Apps\BasicPrograming\obj\Debug\net5.0\BasicPrograming.csproj.AssemblyReference.cache
+D:\MCC\C#Apps\BasicPrograming\obj\Debug\net5.0\BasicPrograming.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCC\C#Apps\BasicPrograming\obj\Debug\net5.0\BasicPrograming.AssemblyInfoInputs.cache
+D:\MCC\C#Apps\BasicPrograming\obj\Debug\net5.0\BasicPrograming.AssemblyInfo.cs
+D:\MCC\C#Apps\BasicPrograming\obj\Debug\net5.0\BasicPrograming.csproj.CoreCompileInputs.cache
+D:\MCC\C#Apps\BasicPrograming\obj\Debug\net5.0\BasicPrograming.dll
+D:\MCC\C#Apps\BasicPrograming\obj\Debug\net5.0\ref\BasicPrograming.dll
+D:\MCC\C#Apps\BasicPrograming\obj\Debug\net5.0\BasicPrograming.pdb
+D:\MCC\C#Apps\BasicPrograming\obj\Debug\net5.0\BasicPrograming.genruntimeconfig.cache
